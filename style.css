@@ -120,7 +120,7 @@ body {
 }
 
 .signup-button:hover {
-    background-color: #2d63b9;
+    background-color: #3170d6;
     color:#f9fbff;
 }
 
@@ -162,6 +162,10 @@ body {
     background-color:#3881f623;
     border-radius: 8px;
     margin-bottom: 4px;
+}
+
+.info-img:hover {
+    background-color:#3881f62c;
 }
 
 .quote-section {
